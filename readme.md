@@ -1,10 +1,10 @@
-# Data Scientist
+# Computer Engineering Student
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, C,
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- Undergraduate Education | Alanya Alaaddin Keykubta Üniversitesi (_2021-.._)								       		
+- High School	| Karaman TOBB Lütfi Elvan Fen Lisesi (_2017-2021_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience
