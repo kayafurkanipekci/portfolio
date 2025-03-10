@@ -3,53 +3,51 @@
 #### Technical Skills: Python, SQL, C,
 
 ## Education
-- Undergraduate Education | Alanya Alaaddin Keykubta Üniversitesi (_2021-.._)								       		
+- Undergraduate Education | Alanya Alaaddin Keykubta Üniversitesi (_2021 - Present_)								       		
 - High School	| Karaman TOBB Lütfi Elvan Fen Lisesi (_2017-2021_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+## Internship Experience
+**Tokat Gaziosmanpaşa Üniversitesi IT Department  (_July 2024 - August 2024_)**
+Thanks to the Ulusal Staj Programı, I completed my 40-day internship at Tokat Gaziosmanpaşa University. We worked 20 days on the hardware and 20 days on the software.
+- On the hardware side, I worked in many different areas such as setting up laboratories, detecting and solving motherboard problems, integrating computers at the university into the active directory structure.
+- On the software side, I developed mini projects mostly on the requests of the professors and the instructors. 
+In the last days of the internship, I was asked to do an optical reader project for the university upon their special request and I developed the project until the end of my internship and delivered it when my internship was over.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Traffic Sign Shape Detection
+Thanks to the knowledge I gained in image processing, I developed a mini project that can detect the shapes of traffic symbols by edge detection and treshold techniques and separate the data set according to the shapes.
+My main goal while making the project was to save the person from trouble by separating the data according to their shapes while teaching data in areas such as machine learning.
+In the project I learned different edge finding techniques and different tresholdin techniques and realized how different outputs they can show. 
+Therefore, together with my friend [Diafwl] (https://github.com/Diafwl), we developed an algorithm to select the most appropriate one for a traffic symbol using different treshold methods.
+In this way, we were able to achieve optimum results even with images taken from different angles
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Optical Reader
+In my internship, university's lecturer asked me to build an optical reader using image processing in Python as a special request from the university. 
+In line with the university's need, I designed a sample optical reader and enabled the optical reader to detect markings with the tresholding method on that optical reader.
+After bringing the project to a certain stage, I was asked to make QR code integration to print student information automatically on the optical reader, after working on it for a while, I was asked to make MSSQL database integration.
+After preparing a sample mini database, I handed over the project to lecturer with the end of my internship.  
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Dormitory Database Project
+I am currently preparing a database for the general dormitory system that works on the web and an application for private dormitories that I am currently developing.
+Using MYSQL, I am preparing a database to ensure that a dormitory can easily meet the needs of both staff and students.
+I am looking forward to developing the backend and frontend in the next few days and finishing the project.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Teknofest Unmanned Marine Vehicle
+I am currently working on a Teknofest team for unmanned marine vehicle. I help the team in the image processing section. We are still at the beginning of the project, I will write here as it progresses.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Mini Projects
+Johhny Bravo App: Created for youtube downloader and file convertor multi-featured app. I use python programming language for both backend and fronted part. I used APIs for the backend through various libraries. I used tkinter for simle UI design.
+System Info App: The application I developed in my internship shows the system information in a simple interface. My aim while making the application is to quickly provide system information to the IT technician in cases where the problems coming to IT need to be solved remotely.
+Wheel of Fortune: In my internship, I developed an application that enables random selection upon the special request of the IT technician. In this project, I used python for the backend and frontend. While creating the interface, I used the pygame library to create an easier.
+Others: Snoopy Voice Assistant (first project, simple voice assistant), Library Management System (terminal app), Uçan Murat (game)
 
-![Bike Study](/assets/img/bike_study.jpeg)
+## Skills
+- I have good proficiency in the Python language, I have been using it for a long time and I think I have made good progress.
+- I am not a stranger to the C language, it is a language I like. Although I have not had the opportunity to work on it much, I can predict that I will use it more in the future.
+- I have used MSSQL and MYSQL, I have had the opportunity to work on MYSQL more and I think I will work on it more
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
+## Non-Field Skills
+- Adobe Photoshop: I have been working on it since I was 12, I have done mostly personal projects and developed myself in this field
+- Adobe Premiere Pro: Although I used applications like Camtasia Studio before, I continue to use Premiere Pro, which is the most professional. I have been editing videos since I was 14, and I have been using Peremiere Pro since I was 17
+- Adobe Illustrator: After Photoshop was not enough, I learned Illustrator to be able to do more professional work. I have been using it since I was 18, I design logos and menus for some cafes.
+- I have also used applications like Gephi, Fusion and Logisim
