@@ -8,6 +8,7 @@
 
 ## Internship Experience
 **Tokat Gaziosmanpaşa Üniversitesi IT Department  (_July 2024 - August 2024_)**
+
 Thanks to the Ulusal Staj Programı, I completed my 40-day internship at Tokat Gaziosmanpaşa University. We worked 20 days on the hardware and 20 days on the software.
 - On the hardware side, I worked in many different areas such as setting up laboratories, detecting and solving motherboard problems, integrating computers at the university into the active directory structure.
 - On the software side, I developed mini projects mostly on the requests of the professors and the instructors. 
