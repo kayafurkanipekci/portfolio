@@ -8,6 +8,7 @@
 
 ## Work Experience
 **Alanya Alaaddin Keykubat Üniversitesi Part-Time Student (_November-2024 - Present_)**
+
 I started to work in the computer labs at the Faculty of Engineering after my lecturer at the university chose me. He put my other 2 friends under my responsibility, and together with them we deal with the general problems of the labs.
 We are mostly trying to solve the problems of computers (such as optimising the use of computers, solving problems related to programs) and providing the necessary environment for students to study comfortably.
 
