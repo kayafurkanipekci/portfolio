@@ -1,7 +1,5 @@
 # Computer Engineering Student
 
-#### Technical Skills: Python, SQL, C,
-
 ## Education
 - Undergraduate Education | Alanya Alaaddin Keykubta Üniversitesi (_2021 - Present_)								       		
 - High School	| Karaman TOBB Lütfi Elvan Fen Lisesi (_2017-2021_)	 			        		
