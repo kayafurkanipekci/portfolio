@@ -6,6 +6,11 @@
 - Undergraduate Education | Alanya Alaaddin Keykubta Üniversitesi (_2021 - Present_)								       		
 - High School	| Karaman TOBB Lütfi Elvan Fen Lisesi (_2017-2021_)	 			        		
 
+## Work Experience
+**Alanya Alaaddin Keykubat Üniversitesi Part-Time Student (_November-2024 - Present_)**
+I started to work in the computer labs at the Faculty of Engineering after my lecturer at the university chose me. He put my other 2 friends under my responsibility, and together with them we deal with the general problems of the labs.
+We are mostly trying to solve the problems of computers (such as optimising the use of computers, solving problems related to programs) and providing the necessary environment for students to study comfortably.
+
 ## Internship Experience
 **Tokat Gaziosmanpaşa Üniversitesi IT Department  (_July 2024 - August 2024_)**
 
