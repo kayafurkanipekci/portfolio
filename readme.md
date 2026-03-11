@@ -1,7 +1,7 @@
 # Kaya Furkan İPEKCİ
 **Computer Engineering Student | Autonomous Systems & Image Processing Enthusiast**
 
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername) | [e-mail](kayafurkanipekci@gmail.com)
+[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername) | [e-mail](mailto:kayafurkanipekci@gmail.com)
 
 ---
 
