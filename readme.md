@@ -54,7 +54,7 @@
 
 ## Experience
 
-**IT Specialist (Part-Time Student)** | *Alanya Alaaddin Keykubat University* *(Nov 2024 - Present)*
+**IT Specialist (Part-Time Student)** | *Alanya Alaaddin Keykubat University* *(Nov 2024 - June 2025)*
 - Managing and maintaining computer laboratories within the Engineering Faculty.
 - Optimizing operating systems, resolving software conflicts, and ensuring high-availability technical support for academic environments.
 
